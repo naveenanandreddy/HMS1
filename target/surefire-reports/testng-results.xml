@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-08T17:53:12Z" name="HMSResults" finished-at="2019-10-08T17:53:16Z" duration-ms="3950">
+    <groups>
+    </groups>
+    <test started-at="2019-10-08T17:53:12Z" name="TestScript3" finished-at="2019-10-08T17:53:16Z" duration-ms="3950">
+      <class name="general_Package.TestScript3">
+        <test-method signature="f()[pri:0, instance:general_Package.TestScript3@5a63f509]" started-at="2019-10-08T19:53:12Z" name="f" finished-at="2019-10-08T19:53:16Z" duration-ms="3935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- general_Package.TestScript3 -->
+    </test> <!-- TestScript3 -->
+  </suite> <!-- HMSResults -->
+</testng-results>

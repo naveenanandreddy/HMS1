@@ -1,0 +1,8 @@
+<suite name = "HMSResults">
+<test name = "TestScript3">
+<classes>
+<class name = "general_Package.TestScript3">
+</class>
+</classes>
+</test>
+</suite>
